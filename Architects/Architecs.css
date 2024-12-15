@@ -41,7 +41,7 @@ nav ul li a:hover{
     display: flex;
 }
 .ev4{
-    background: #000 url(/Architects/img/foto4.jpg);
+    background: #000 url(/img/foto4.jpg);
 }
 .br .logo{
     font-weight: bold;
@@ -63,11 +63,12 @@ nav ul li a:hover{
     width: 100%;
     height: 80vh;
     margin: 0 0 50px 0;
+    
 }
 .n1 .foto{
-    background: #000 url(/Architects/img/architect.jpg);
-    width: 80%;
-    height: 400px;
+    background: #000 url(/img/architect.jpg);
+    width: 100%;
+    height: 600px;
     margin: auto;
     display: flex;
     justify-content: center;
@@ -81,7 +82,7 @@ nav ul li a:hover{
     font-size: 30px;
 }
 .ev3{
-    background: #000 url(/Architects/img/foto3.jpg);
+    background: #000 url(/img/foto3.jpg);
 
 }
 .n1 .foto p{
@@ -155,7 +156,7 @@ nav ul li a:hover{
     height: 370px;
 }
 .evfoto-2 .tt{
-    background: #000 url(/Architects/img/grup4.jpg);
+    background: #000 url(/img/grup4.jpg);
     width: 100%;
     height: 200px;
     margin: 0 auto 15px;
@@ -260,4 +261,10 @@ footer{
     display: flex;
     justify-content: flex-start;
     align-items: center;
+}
+.text3{
+    position: relative;left: 130px;top: 45px;
+    font-size: large;
+    font-size: x-large;
+    
 }
